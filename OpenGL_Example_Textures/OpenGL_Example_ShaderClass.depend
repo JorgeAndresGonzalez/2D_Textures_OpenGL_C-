@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1514114807 source:c:\users\angtr\desktop\test\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<cassert>
+	<stdexcept>
+	<iostream>
+	"Shader.h"
+
+1514113615 c:\users\angtr\desktop\test\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1514529701 source:c:\users\angtr\desktop\opengl_example_shaderclass\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<cassert>
+	<stdexcept>
+	<stb_image.h>
+	<iostream>
+	"Shader.h"
+
+1514526083 c:\users\angtr\desktop\opengl_example_shaderclass\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
